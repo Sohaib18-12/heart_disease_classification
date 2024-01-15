@@ -1,3 +1,5 @@
+![Heart_Disease](https://github.com/Sohaib18-12/heart_disease_classification/assets/114408167/9927abd8-5888-4f52-a8b8-f4b3ee64acaf)
+
 # Predicting heart disease using machine learning
 
 This notebook looks into using various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting whether or not someone has heart disease on their medical attributes.
